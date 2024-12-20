@@ -8,7 +8,7 @@ Assignment 6 starts with a written descption of requirments desired for a forum 
 
 Assignment 8 builds on the forum post database from before. Here python is used to implement requirments that were not possible using just the database managment system. Using the psycopg2 library these requirments are implemented and with a certain design ensuring the databases secruity and safety from injection attacks. Proper function documentation is the only thing missing from the python file. 
 
-Course description and topics  
+Course description and topics for CSC 370 Database Systems
 
 Students will develop competency in areas of data analytics, data modelling, and back-end engineering. Upon successful completion of this course, students will be able to:  
     - Explain the role and importance of databases in modern applications and within our society.  
