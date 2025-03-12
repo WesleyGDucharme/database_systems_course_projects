@@ -6,7 +6,7 @@ Assignemnt 5 is about identifying and normalizng relationships in a given csv fi
 
 Assignment 6 starts with a written descption of requirments desired for a forum post website's database. The design of the database goes through these following steps. Identifying the entities, attirbutes and identifiers in the written description. Then designing an Entity-Relationship model usiing Crow's Foot notation. Lastly all tables are then created and implemented with all necessary attribute constraints and checks included. This is done within a transaction.
 
-Assignment 8 builds on the forum post database from before. Here python is used to implement requirments that were not possible using just the database managment system. Using the psycopg2 library these requirments are implemented and with a certain design ensuring the databases secruity and safety from injection attacks. Proper function documentation is the only thing missing from the python file. 
+Assignment 8 builds on the forum post database from before. Here python is used to implement requirments that were not possible using just the database managment system. Using the psycopg2 library these requirments are implemented and with a certain design ensuring the database's secruity and safety from injection attacks. Proper function documentation is the only thing missing from the python file. 
 
 Course description and topics for CSC 370 Database Systems
 
